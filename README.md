@@ -1,10 +1,10 @@
-# Portfolio of course work for my Master's in Data Science.
+# Portfolio of course work for Master's in Data Science.
 
 ![alt text](https://raw.githubusercontent.com/bmoretz/MS-DataScience/master/media/ProgramOverview.png)
 
 Program Overview:
 
-The integration of data science and business strategy has created a demand for professionals who can make data-driven decisions that propel their organizations forward. You can build the essential analysis and leadership skills needed for careers in today's data-driven world in Northwestern’s online Master of Science in Data Science program.
+The integration of data science and business strategy has created a demand for professionals who can make data-driven decisions that propel their organizations forward. You can build the essential analysis and leadership skills needed for careers in today's data-driven world in online Master of Science in Data Science program.
 
 MSDS students gain critical skills for succeeding in today's data-intensive world. They learn how to utilize relational and document database systems and analytics software built upon open-source systems such as R, Python, and TensorFlow. They learn how to make trustworthy predictions using traditional statistics and machine learning methods.
 
