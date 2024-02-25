@@ -24,7 +24,7 @@ My specialization is in analytics and modeling, a brief overview is provided bel
 
 <p>This course introduces data modeling for studies in which there is no clear distinction between explanatory and response variables. The objective may be to explain relationships among many continuous variables in terms of underlying dimensions, latent variables, or factors, as with principal components and factor analysis. The objective may be to find a lower-dimensional representation for multivariate cross-classified data, as with log-linear models. The objective may be to construct a visualization of variables or objects, as with traditional multidimensional scaling and t-distributed stochastic neighbor embedding. Or the objective may be to identify groups of variables and/or objects that are similar to one another, as with cluster analysis and biclustering. Students work on research and programming assignments, exploring multivariate data and methods.</p>
 
-<h4>MSDS 432 - Foundations of Data Engineering</h4>
+<h4>MSDS 432 - Foundations of Data Engineering</h4> 
 
 <p>This course provides an overview of the discipline of data engineering. It introduces software and systems for data science and software development as required in the design of data-intensive applications. Students learn about algorithms, data structures, and technologies or storing and processing data. Students gain experience with open-source software, text editors, and integrated development environments. Students employ best practices in software development, utilizing tools for syntax checking, testing, debugging, and version control. The course also introduces formal models, simulations, and benchmark experiments for evaluating software, systems, and processes.</p>
 
