@@ -32,7 +32,7 @@ My specialization is in analytics and modeling, a brief overview is provided bel
 
 <p>Building upon probability theory and inferential statistics, this course provides an introduction to risk analytics. Examples from economics and finance show how to incorporate risk within regression and time series models. Monte Carlo simulation is used to demonstrate how variability in data affects uncertainty about model parameters. Additional topics include subjectivity in risk analysis, causal modeling, stochastic optimization, portfolio analysis, and risk model evaluation.</p>
 
-<h3>Capstone</h3>
+<h3>Capstone</h3> 
 
 <h4>Quantum Capital</h4>
 
